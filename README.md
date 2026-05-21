@@ -6,3 +6,5 @@
 
 Star topology
 Router -> Switch -> Devices
+
+![Star Topology](path/Screenshot_22.png)
